@@ -1,23 +1,71 @@
-# ListaTareasApp
+# 📝 Lista de Tareas - Angular 17
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+Este es un proyecto desarrollado como práctica para comenzar a crear aplicaciones web utilizando el framework **Angular**. A través de esta app se exploran conceptos como componentes, servicios, data binding, manejo de eventos y más.
 
-## Development server
+> 🚀 Proyecto creado con **Angular CLI v17.3.17**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+----------
 
-## Code scaffolding
+## 🔗 Demo en línea
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+👉 [Ver aplicación en Netlify](https://lista-tareas-agular-17.netlify.app/)
 
-## Build
+----------
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## ⚙️ Funcionalidades principales
 
-## Further help
+-   ✅ Agregar tareas
+    
+-   🗑️ Eliminar tareas
+    
+-   ✏️ Marcar tareas como completadas
+    
+-   💾 Persistencia en memoria (sin base de datos)
+    
+-   🧩 Arquitectura basada en componentes
+    
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+----------
 
+## 🛠️ Cómo ejecutar el proyecto
 
-## Para ver el proyecto levantado y online: 
-https://lista-tareas-agular-17.netlify.app/
+### 1. Clonar el repositorio
+
+`git clone https://github.com/tu-usuario/lista-tareas-angular.git cd lista-tareas-angular` 
+
+### 2. Instalar dependencias
+
+`npm install` 
+
+### 3. Iniciar el servidor de desarrollo
+
+`ng serve` 
+
+Accedé a la app en: [http://localhost:4200](http://localhost:4200)
+
+----------
+
+## ⚒️ Comandos útiles
+
+Crear un componente
+
+`ng generate component nombre-componente`
+
+Compilar el proyecto
+
+`ng build`
+
+Ver ayuda de Angular CLI
+
+`ng help`
+
+----------
+
+## 📚 Recursos útiles
+
+-   Documentación oficial de Angular
+    
+-   [Guía de comandos de Angular CLI](https://angular.io/cli)
+    
+
+----------
